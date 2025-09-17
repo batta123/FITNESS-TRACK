@@ -67,7 +67,7 @@ The following Entity-Relationship Diagram illustrates the core data model for th
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/batta123/FITNESS-TRACK.git
+   git clone https://github.com/batta123/FITNESS-TRACKER.git
    cd FITNESS-TRACK
 
 ## Run the app
