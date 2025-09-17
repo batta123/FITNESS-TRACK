@@ -30,7 +30,11 @@ A modular Java backend for tracking fitness activities, calories, and user progr
 
 
 ---
+## 📘 ER Diagram
 
+The following Entity-Relationship Diagram illustrates the core data model for the fitness tracking application. It includes three main tables: `User`, `Workout`, and `Calorie`, with relationships defined via foreign keys.
+
+![Entity Relationship Diagram](https://github.com/batta123/FITNESS-TRACK/blob/main/%7B04430792-8E73-4199-A970-6CE840763346%7D%20(1).png)
 
 
 
