@@ -21,3 +21,9 @@ A modular Java backend for tracking fitness activities, calories, and user progr
     └── resources/ 
     ├── application.properties 
     └── data.sql
+
+    test/ 
+    └── java/com/fittrack/ 
+    ├── controller/ 
+    ├── service/ 
+    └── FitTrackApplicationTests.java
