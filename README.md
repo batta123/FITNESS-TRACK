@@ -74,58 +74,57 @@ Build Tool: Maven
     src/
         └── main/
             ├── java/
-            │   └── com/
-            │       └── fittrack/
-            │           ├── FitTrackApplication.java
-            │           ├── controller/
-            │           │   ├── AuthController.java
-            │           │   ├── UserController.java
-            │           │   ├── WorkoutController.java
-            │           │   ├── CalorieController.java
-            │           │   └── ProgressController.java
-            │           ├── dto/
-            │           │   ├── AuthRequest.java
-            │           │   ├── AuthResponse.java
-            │           │   ├── UserProfileDto.java
-            │           │   ├── WorkoutDto.java
-            │           │   └── CalorieDto.java
-            │           ├── exception/
-            │           │   ├── GlobalExceptionHandler.java
-            │           │   └── CustomException.java
-            │           ├── model/
-            │           │   ├── User.java
-            │           │   ├── Workout.java
-            │           │   └── Calorie.java
-            │           ├── repository/
-            │           │   ├── UserRepository.java
-            │           │   ├── WorkoutRepository.java
-            │           │   └── CalorieRepository.java
-            │           ├── security/
-            │           │   ├── JwtAuthenticationFilter.java
-            │           │   ├── JwtTokenProvider.java
-            │           │   ├── SecurityConfig.java
-            │           │   └── CustomUserDetailsService.java
-            │           ├── service/
-            │           │   ├── AuthService.java
-            │           │   ├── UserService.java
-            │           │   ├── WorkoutService.java
-            │           │   └── CalorieService.java
-            │           └── util/
-            │               └── DateUtil.java
-            └── resources/
-                ├── application.properties
-                └── data.sql
-        
-        test/
-        └── java/
-            └── com/
-                └── fittrack/
-                    ├── controller/
-                    ├── service/
-                    └── FitTrackApplicationTests.java
-        
-        pom.xml
-        README.md
+                    │   └── com/
+                    │       └── fittrack/
+                    │           ├── FitTrackApplication.java
+                    │           ├── controller/
+                    │           │   ├── AuthController.java
+                    │           │   ├── UserController.java
+                    │           │   ├── WorkoutController.java
+                    │           │   ├── CalorieController.java
+                    │           │   └── ProgressController.java
+                    │           ├── dto/
+                    │           │   ├── AuthRequest.java
+                    │           │   ├── AuthResponse.java
+                    │           │   ├── UserProfileDto.java
+                    │           │   ├── WorkoutDto.java
+                    │           │   └── CalorieDto.java
+                    │           ├── exception/
+                    │           │   ├── GlobalExceptionHandler.java
+                    │           │   └── CustomException.java
+                    │           ├── model/
+                    │           │   ├── User.java
+                    │           │   ├── Workout.java
+                    │           │   └── Calorie.java
+                    │           ├── repository/
+                    │           │   ├── UserRepository.java
+                    │           │   ├── WorkoutRepository.java
+                    │           │   └── CalorieRepository.java
+                    │           ├── security/
+                    │           │   ├── JwtAuthenticationFilter.java
+                    │           │   ├── JwtTokenProvider.java
+                    │           │   ├── SecurityConfig.java
+                    │           │   └── CustomUserDetailsService.java
+                    │           ├── service/
+                    │           │   ├── AuthService.java
+                    │           │   ├── UserService.java
+                    │           │   ├── WorkoutService.java
+                    │           │   └── CalorieService.java
+                    │           └── util/
+                    │               └── DateUtil.java
+                    └── resources/
+                        ├── application.properties
+                        └── data.sql
+                        test/
+                        └── java/
+                            └── com/
+                                └── fittrack/
+                                    ├── controller/
+                                    ├── service/
+                                    └── FitTrackApplicationTests.java
+                        
+                        pom.xml
+                        README.md
    
 
 🖼 ER Diagram
