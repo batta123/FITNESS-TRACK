@@ -33,7 +33,7 @@ A modular Java backend for tracking fitness activities, calories, and user progr
 
 ## 🧬 ER Diagram
 
-![ER Diagram](https://i.ibb.co/XYZ123/your-image.png)
+![ER Diagram](https://ibb.co/jPYT8s18)
 
 
 ## 🚀 Features
