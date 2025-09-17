@@ -31,9 +31,7 @@ A modular Java backend for tracking fitness activities, calories, and user progr
 
 ---
 
-## 🧬 ER Diagram
 
-![ER Diagram](https://batta-dileep.imgbb.com/)
 
 
 ## 🚀 Features
