@@ -1,4 +1,4 @@
-# 🏋️‍♂️ FITTRACK Backend
+# 🏋️‍♂️ FITTRACK Backend Spring Boot Project
 
 A modular Java backend for tracking fitness activities, calories, and user progress. Built with Spring Boot, JWT authentication, and RESTful APIs.
 
